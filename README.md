@@ -6,9 +6,5 @@ In this project, my aim is to classify digits ranging from 0 to 9 using the MNIS
 I have utilized the popular MNIST dataset, which is a widely used  dataset in the field of machine learning and computer vision. It consists of 28x28 pixel grayscale images of handwritten digits along with their corresponding labels,located in **Data** directory.
 
 ## Repository Structure
-**data/**:
-
-Directory containing the MNIST dataset.
-**knn_mnist_data.ipynb**:
-
-Jupyter Notebook containing the code for implementing **KNN algorithm for digit classification from scratch**.
+- **data/**: Directory containing the MNIST dataset.
+- **knn_mnist_data.ipynb**: Jupyter Notebook containing the code for implementing **KNN algorithm for digit classification from scratch**.
